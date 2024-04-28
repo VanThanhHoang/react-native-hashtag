@@ -1,2 +1,1 @@
-# react-native-hashtag
- The react-native-hashtag library simplifies handling and displaying hashtags in React Native apps. It offers easy integration, flexible customization, and compatibility with the latest React Native versions. With react-native-hashtag, you can effortlessly incorporate hashtags into your app's UI.
+The react-native-hashtag library streamlines the management and rendering of hashtags within React Native applications. Designed with TypeScript, it ensures type safety and enhanced developer experience. With its intuitive integration and customizable features, incorporating hashtags into your app's UI becomes effortless. Stay up-to-date with the latest React Native versions while enjoying the convenience and flexibility offered by react-native-hashtag.
